@@ -1,5 +1,5 @@
 
-<h1> ¡Qué tal!, soy Moisés 👋 </h1>
+<h1> ¡Qué tal! soy Moisés 👋 </h1>
 
 ## 🚀 Acerca de mí
 ¡Hola! Soy un desarrollador web autodidacta con muchas ganas de superarme. Actualmente vivo en Ecuador tengo 18 años y me apasiona el mundo de la informática. 🌟
