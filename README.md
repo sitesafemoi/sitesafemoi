@@ -1,17 +1,15 @@
 
-<h1> Hi, I'm Moi! 👋 </h1>
+<h1> ¡Qué tal!, soy Moisés 👋 </h1>
 
-## 🚀 About Me 
-¡Hello! I'm a self-taught web developer with a great desire to improve myself. I currently live in Ecuador and I'm 18 years old and I am passionate about the world of computing. 🌟
+## 🚀 Acerca de mí
+¡Hola! Soy un desarrollador web autodidacta con muchas ganas de superarme. Actualmente vivo en Ecuador tengo 18 años y me apasiona el mundo de la informática. 🌟
 
-# What can you find in my repositories? 👀
-You can find web projects, which I am carrying out as I learn new things, this with the purpose of putting all my knowledge into practice.
+# ¿Qué puedes encontrar en mis repositorios? 👀
+Podrás encontrar proyectos web, los cuales voy realizando a medida que aprendo cosas nuevas, esto con el propósito de poner en práctica todos mis conocimientos.
 
-
-
-## 🏆 Skills
-HTML, CSS, Communication, Responsive Web Desing, Problem Solving.
-Javascript coming soon... 🔥
+## 🏆 Habilidades
+HTML, CSS, Comunicación, Responsive Web Desing, Resolución de Problemas.
+Javascript próximamente... 🔥
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sitesafemoi.github.io/porfolio-moi/)
