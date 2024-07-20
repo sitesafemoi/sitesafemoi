@@ -3,7 +3,7 @@
 
 ## 🚀 Acerca de mí
 ¡Hola! Soy un desarrollador web autodidacta con muchas ganas de superarme. Actualmente vivo en Ecuador tengo 18 años y me apasiona el mundo de la informática. 🌟
-Actualemente me encuentro aprendiendo JavaScript...
+Me encuentro aprendiendo JavaScript...
 
 # ¿Qué puedes encontrar en mis repositorios? 👀
 Podrás encontrar proyectos web, los cuales voy realizando a medida que aprendo cosas nuevas, esto con el propósito de poner en práctica todos mis conocimientos.
