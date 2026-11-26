@@ -15,11 +15,12 @@ Hoy trabajo sobre todo en **proyectos privados** de desarrollo agéntico, automa
 **🤖 Inteligencia Artificial y Automatización**
 - Desarrollo de software agéntico (agentes de IA)
 - Chatbots de IA integrados con WhatsApp
-- Automatizaciones con n8n
+- Automatizaciones
 
 **💻 Desarrollo**
 - HTML, CSS y Responsive Web Design
 - Java, C++ y C#
+- n8n
 - Lógica de programación real y resolución de problemas
 
 **🚀 Infraestructura y Despliegue**
