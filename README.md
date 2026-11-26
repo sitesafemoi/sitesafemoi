@@ -6,11 +6,34 @@
 Me encuentro aprendiendo JavaScript...
 
 # ¿Qué puedes encontrar en mis repositorios? 👀
-Podrás encontrar proyectos web, los cuales voy realizando a medida que aprendo cosas nuevas, esto con el propósito de poner en práctica todos mis conocimientos.
+
+Los repositorios públicos que verás aquí son de **2023**, de cuando empecé en el desarrollo web, antes del boom de la IA. Ahí aprendí las bases escribiendo cada línea a mano y construyendo mi lógica de programación desde cero. 💪
+
+Hoy trabajo sobre todo en **proyectos privados** de desarrollo agéntico, automatizaciones y chatbots con IA, que por su naturaleza no puedo publicar. Pronto iré subiendo proyectos nuevos que muestren lo que hago ahora. 🚀
 
 ## 🏆 Habilidades
-HTML, CSS, Comunicación, Responsive Web Desing, Resolución de Problemas.
-Javascript próximamente... 🔥
+
+**🤖 Inteligencia Artificial y Automatización**
+- Desarrollo de software agéntico (agentes de IA)
+- Chatbots de IA integrados con WhatsApp
+- Automatizaciones con n8n
+
+**💻 Desarrollo**
+- HTML, CSS y Responsive Web Design
+- Java, C++ y C#
+- Lógica de programación real y resolución de problemas
+
+**🖥️ Infraestructura**
+- Manejo de VPS (configuración y despliegue)
+
+**🤝 Habilidades blandas**
+- Liderazgo
+- Comunicación efectiva
+- Trabajo en equipo
+- Pensamiento crítico
+- Adaptabilidad
+
+📚 En constante aprendizaje 🔥
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sitesafemoi.github.io/porfolio-moi/)
