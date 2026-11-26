@@ -2,8 +2,7 @@
 <h1> ¡Qué tal! soy Moisés 👋 </h1>
 
 ## 🚀 Acerca de mí
-¡Hola! Soy un desarrollador web autodidacta con muchas ganas de superarme. Actualmente vivo en Ecuador tengo 18 años y me apasiona el mundo de la informática. 🌟
-Me encuentro aprendiendo JavaScript...
+¡Hola! Soy un desarrollador autodidacta y estudiante de ingieneria en sistemas. Actualmente vivo en Ecuador tengo 20 años y me apasiona el mundo de la informática. 🌟
 
 # ¿Qué puedes encontrar en mis repositorios? 👀
 
@@ -23,8 +22,9 @@ Hoy trabajo sobre todo en **proyectos privados** de desarrollo agéntico, automa
 - Java, C++ y C#
 - Lógica de programación real y resolución de problemas
 
-**🖥️ Infraestructura**
+**🚀 Infraestructura y Despliegue**
 - Manejo de VPS (configuración y despliegue)
+- 📱 Publicación de aplicaciones en 🍎 App Store y 🟢 Google Play
 
 **🤝 Habilidades blandas**
 - Liderazgo
